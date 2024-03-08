@@ -1,0 +1,15 @@
+.env
+venv/
+.idea/
+Dockerfile
+__pycache__/
+new_one.py
+nutr.py
+test.py
+main.py
+googlesheets.py
+test_1.py
+11.py
+*.db
+*.json
+databases/

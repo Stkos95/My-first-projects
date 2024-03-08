@@ -1,0 +1,16 @@
+
+services:
+  api:
+    image: demo4
+    container_name: my-name
+    ports:
+      - 3000:3000
+    networks:
+      - myTestNetwork
+    volumes:
+      - data:/opt/app/data
+
+
+networks:
+  myTestNetwork:
+    driver: bridge

@@ -1,0 +1,14 @@
+.env
+venv/
+.idea/*
+__pycache__/
+handlers/test.py
+*.json
+*.xls
+*.xlsx
+.venv/
+templates/
+results_statistic_png
+test*
+
+

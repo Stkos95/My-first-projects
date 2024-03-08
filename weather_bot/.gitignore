@@ -1,0 +1,6 @@
+.env
+venv/
+.idea/*
+Docker-compose.yml
+Dockerfile
+city.list.json
